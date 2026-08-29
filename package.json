@@ -1,0 +1,11 @@
+{
+  "name": "postgres-backup-cron",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "bun run index.tsx"
+  },
+  "dependencies": {
+    "pg": "^8.23.0"
+  }
+}
